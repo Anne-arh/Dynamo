@@ -1,4 +1,4 @@
-The script overrides the color of an element (floor, roof, etc) in a Revit view. 
+The script "Color change in view" overrides the color of an element (floor, roof, etc) in a Revit view. 
 It is similar to the Revit command: right-click on element/ Override Graphics in View.
 How to use it: 
   In Revit: Open Revit model/ Manage/ Dynamo/ 
