@@ -1,6 +1,11 @@
 The script "Color change in view" overrides the color of an element (floor, roof, etc) in a Revit view. 
 It is similar to the Revit command: right-click on element/ Override Graphics in View.
-How to use it: 
+
+How to use it with Dynamo Player: 
+  Open Revit model/ Manage/ Dynamo Player/
+  Required inputs: color RGB/ select a Revit element
+
+How to use and change nodes:
   In Revit: Open Revit model/ Manage/ Dynamo/ 
   In Dynamo: Open dyn file/ click on Select/ click on an element in Revit/ return to Dynamo and run
   Change the RGB color as needed
