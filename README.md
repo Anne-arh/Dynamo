@@ -8,5 +8,14 @@ How to use it with Dynamo Player:
 How to use and change nodes:
   In Revit: Open Revit model/ Manage/ Dynamo/ 
   In Dynamo: Open dyn file/ click on Select/ click on an element in Revit/ return to Dynamo and run
-  Change the RGB color as needed
+  Change the RGB color as needed/ Run
   Close the dyn file. The element in Revit is colored. 
+
+
+The script "Delete Rooms" helps deleting the rooms in Revit.
+How to use it with Dynamo Player: 
+  Open Revit model/ Manage/ Dynamo Player/Run (there is no input requires)
+
+How to use and change nodes:
+  In Revit: Open Revit model/ Manage/ Dynamo/ 
+  In Dynamo: Open dyn file/ change the category if needed (for instance, to Room Tags, so that the script will delete the tags).
